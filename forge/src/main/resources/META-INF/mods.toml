@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+#issueTrackerURL = ""
+license = "All Right Reserved"
+
+[[mods]]
+modId = "beavercurve"
+version = "${mod_version}"
+displayName = "Beaver Curve"
+authors = "Modekh"
+description = '''
+More memes in this cubic world!
+'''
+logoFile = "logo.png"
+
+[[dependencies.beavercurve]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.beavercurve]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.beavercurve]]
+modId = "architectury"
+mandatory = false
+versionRange = "[9.1.12,)"
+ordering = "AFTER"
+side = "BOTH"

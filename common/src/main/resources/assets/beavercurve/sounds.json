@@ -1,0 +1,35 @@
+{
+  "polish_word": {
+    "category": "master",
+    "subtitle": "subtitle.beavercurve.polish_word",
+    "sounds": [
+      "beavercurve:word/00",
+      "beavercurve:word/01",
+      "beavercurve:word/02",
+      "beavercurve:word/03",
+      "beavercurve:word/04",
+      "beavercurve:word/05",
+      "beavercurve:word/06",
+      "beavercurve:word/07",
+      "beavercurve:word/08",
+      "beavercurve:word/09",
+      "beavercurve:word/10",
+      "beavercurve:word/11",
+      "beavercurve:word/12",
+      "beavercurve:word/13",
+      "beavercurve:word/14",
+      "beavercurve:word/15",
+      "beavercurve:word/16",
+      "beavercurve:word/17",
+      "beavercurve:word/18",
+      "beavercurve:hedgehog/0",
+      "beavercurve:hedgehog/1",
+      "beavercurve:hedgehog/2",
+      "beavercurve:hedgehog/3",
+      "beavercurve:hedgehog/4",
+      "beavercurve:hedgehog/5",
+      "beavercurve:skunk/0",
+      "beavercurve:skunk/1"
+    ]
+  }
+}

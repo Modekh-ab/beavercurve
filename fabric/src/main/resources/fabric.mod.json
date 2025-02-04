@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "beavercurve",
+  "version": "{mod_version}",
+  "name": "{mod_name}",
+  "description": "{mod_description}",
+  "authors": [
+    "{mod_authors}"
+  ],
+  "contact": {
+    "homepage": "{mod_homepage}",
+    "sources": "{mod_source}"
+  },
+  "license": "{mod_license}",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.modekh.beavercurve.fabric.BeaverCurveFabric"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.20.1",
+    "architectury": ">=9.1.12",
+    "forgeconfigapiport": ">=8.0.1"
+  }
+}
