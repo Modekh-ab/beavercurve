@@ -1,7 +1,6 @@
 # 🦫 Beaver Curve mod
 
-## 🔨 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/beaver-curve)
-## 🚰 [Modrinth](https://modrinth.com/mod/beaver-curve)
+## 🔨 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/beaver-curve) | 🚰 [Modrinth](https://modrinth.com/mod/beaver-curve)
 
 ## ☁️ Abstract
 ### _More memes in this cubic world!_
