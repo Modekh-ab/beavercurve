@@ -1,6 +1,6 @@
 # 🦫 Beaver Curve mod
 
-## 🔨 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/beaver-curve) | 🚰 [Modrinth](https://modrinth.com/mod/beaver-curve)
+## 🔨 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/beaver-curve) | 🍀 [Modrinth](https://modrinth.com/mod/beaver-curve)
 
 ## ☁️ Abstract
 ### _More memes in this cubic world!_
@@ -21,7 +21,7 @@ Mod is **highly configurable**:
 - `Cooldown`: defines delay for right-clicking entity (milliseconds)
 - `Entity Class`: defines which type of entity should trigger the sound or message (animal / mob / living entity / entity);
 - `Sound Enabled`: enables sounds on right-clicking;
-- `Message Enable`: enables messages on right-clicking;
+- `Message Enabled`: enables messages on right-clicking;
 - `Message Type`: works with messages enabled, defines where message should display (`true` - above hotbar, `false` - in chat)
 
 </details>
